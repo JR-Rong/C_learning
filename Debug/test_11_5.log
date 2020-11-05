@@ -1,0 +1,4 @@
+﻿  main.c
+F:\C_learning\test_11_5\main.c(10,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+  test_11_5.vcxproj -> F:\C_learning\test_11_5\Debug\test_11_5.exe
